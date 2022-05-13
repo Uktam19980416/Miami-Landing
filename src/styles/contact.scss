@@ -10,7 +10,7 @@
 
         @include forMobile {
           @include forStyle(32px, 32px, 700);
-        };
+        }
       }
     }
 
